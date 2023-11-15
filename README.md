@@ -31,5 +31,7 @@ In the age of digital networking and event management, choosing the right platfo
     - (Calculated the total amount collected during the 2 events)
     - Calculated the maximum and minimum amount spent by users.
 
-## Installation
+## Output:
+
+The events organised 
 
