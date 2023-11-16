@@ -1,5 +1,5 @@
 # HirePhD-Event hosting platform comparison: LinkedIn Vs Eventbrite
-HirePhD conduct frequent event for career enhancement, knowledge transfer for PhD graduates. These events were advertised in linkedin initially and eventbrite later. The purpose of this project is to analyse the participants turnover when the event is advertised in either of the two platforms. 
+HirePhD conduct frequent event for career enhancement, knowledge transfer for masters,PhD graduates and working personnels. These events were advertised in linkedin initially and eventbrite later. The purpose of this project is to analyse the participants turnover when the event is advertised in either of the two platforms. 
 # Event Platform Comparison Project
 
 ## Overview
