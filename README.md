@@ -33,5 +33,4 @@ In the age of digital networking and event management, choosing the right platfo
 
 ## Output:
 
-The events organised 
 
